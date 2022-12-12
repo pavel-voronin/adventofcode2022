@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "author": "Pavel Voronin <pavel.a.voronin@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "new": "node new-day.js"
+  }
 }
