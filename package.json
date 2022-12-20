@@ -6,5 +6,8 @@
   "license": "ISC",
   "scripts": {
     "new": "node new-day.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
   }
 }
